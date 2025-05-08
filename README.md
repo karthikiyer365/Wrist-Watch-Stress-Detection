@@ -1,4 +1,4 @@
-Introduction
+
 Stress is no longer an exception in today’s work environments — it’s the background noise we’ve all learned to live with. Conversations around burnout, mental fatigue, and declining health have become common, and organizations are increasingly seeking ways to monitor and improve workplace well-being.
 
 With the rise of AI, IoT, and wearable technology, the possibility of detecting stress seamlessly and non-intrusively is closer than ever. Smart wristwatches, in particular, offer a promising gateway into the world of health monitoring, merging convenience with technology in ways never imagined before.
